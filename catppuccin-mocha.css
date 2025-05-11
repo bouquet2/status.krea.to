@@ -1,0 +1,26 @@
+:root {
+  --body-background-color: #1e1e2e; /* $base */
+  --body-text-color: #cdd6f4; /* $text */
+  --card-background-color: #313244; /* $surface0 */
+  --nav-background-color: #313244; /* $surface0 */
+  --nav-border-bottom-color: #45475a; /* $surface1 */
+  --nav-current-border-bottom-color: #94e2d5; /* $teal */
+  --card-border-color: #45475a; /* $surface1 */
+  --down-border-left-color: #f38ba8; /* $red */
+  --down-background-color: #45475a; /* $surface1 - darker variant for down status */
+  --degraded-border-left-color: #f9e2af; /* $yellow */
+  --up-border-left-color: #a6e3a1; /* $green */
+  --tag-color: #181825; /* $mantle */
+  --tag-up-background-color: #a6e3a1; /* $green */
+  --tag-down-background-color: #f38ba8; /* $red */
+  --tag-degraded-background-color: #f9e2af; /* $yellow */
+  --change-background-color: #fab387; /* $peach */
+  --error-button-border-color: #89b4fa; /* $blue */
+  --error-button-background-color: #cba6f7; /* $mauve */
+  --error-button-color: #cdd6f4; /* $text */
+  --submit-button-border-color: #89b4fa; /* $blue */
+  --submit-button-background-color: #cba6f7; /* $mauve */
+  --submit-button-color: #cdd6f4; /* $text */
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
