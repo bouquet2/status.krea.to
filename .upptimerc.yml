@@ -1,15 +1,23 @@
 owner: kreatoo
-repo: status.krea.to
+repo: k8s
 
 sites:
   - name: rose
     url: https://rose.krea.to
+    expectedStatusCodes:
+      - 404
   - name: iris
     url: https://iris.krea.to
+    expectedStatusCodes:
+      - 404
   - name: lily
     url: https://lily.krea.to
+    expectedStatusCodes:
+      - 404
   - name: lb
     url: https://lb.krea.to
+    expectedStatusCodes:
+      - 404
   - name: binrepo
     url: https://bin.kreato.dev
   - name: mastodon
