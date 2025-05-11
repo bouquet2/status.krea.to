@@ -41,9 +41,9 @@ status-website:
   cname: status.krea.to
   logoUrl: https://raw.githubusercontent.com/kubernetes/kubernetes/refs/heads/master/logo/logo.png
   name: krea.to Status
-  theme: catppuccin-mocha
+  themeUrl: http://status.krea.to/catppuccin-mocha.css
   introTitle: "**krea.to** Infrastructure Health Status"
-  introMessage: Real-time monitoring of krea.to infrastructure health status, including internal and external services. Monitoring is done by Upptime.
+  introMessage: Real-time monitoring of krea.to infrastructure health status, including internal and external services.
   navbar:
     - title: Status
       href: /
