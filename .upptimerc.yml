@@ -1,5 +1,5 @@
 owner: kreatoo
-repo: k8s
+repo: status.krea.to
 
 sites:
   - name: rose
@@ -47,4 +47,4 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/kreatoo/k8s 
+      href: https://github.com/kreatoo/bouquet2 
