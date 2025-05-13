@@ -102,19 +102,19 @@
     "url": "https://m.kreato.dev",
     "icon": "https://icons.duckduckgo.com/ip3/m.kreato.dev.ico",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 713,
-    "timeDay": 764,
-    "timeWeek": 713,
-    "timeMonth": 713,
-    "timeYear": 713,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 745,
+    "timeDay": 855,
+    "timeWeek": 745,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {
-      "2025-05-13": 0
+      "2025-05-13": 19
     }
   },
   {
