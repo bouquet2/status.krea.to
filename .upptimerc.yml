@@ -24,6 +24,8 @@ sites:
     url: https://m.kreato.dev
   - name: umami
     url: https://umami.krea.to/dashboard
+  - name: n8n
+    url: https://n8n.krea.to
   - name: mirror
     url: https://mirror.kreato.dev
   - name: main
