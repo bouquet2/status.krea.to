@@ -18,6 +18,10 @@ sites:
     url: https://lb.krea.to
     expectedStatusCodes:
       - 404
+  - name: MinIO
+    url: https://s3.krea.to
+    expectedStatusCodes:
+      - 400
   - name: binrepo
     url: https://bin.kreato.dev
   - name: mastodon
@@ -38,6 +42,7 @@ sites:
     url: https://linux.kreato.dev
   - name: media
     url: https://media.krea.to
+  
 
 status-website:
   cname: status.krea.to
