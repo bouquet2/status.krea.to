@@ -22,6 +22,7 @@ sites:
     url: https://s3.krea.to
     expectedStatusCodes:
       - 400
+      - 403
   - name: binrepo
     url: https://bin.kreato.dev
   - name: mastodon
