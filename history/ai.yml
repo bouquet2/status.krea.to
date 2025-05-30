@@ -1,7 +1,7 @@
 url: https://ai.krea.to
-status: up
-code: 200
-responseTime: 446
-lastUpdated: 2025-05-29T23:22:49.078Z
+status: down
+code: 502
+responseTime: 366
+lastUpdated: 2025-05-30T11:28:19.561Z
 startTime: 2025-05-11T21:58:04.352Z
 generator: Upptime <https://github.com/upptime/upptime>
