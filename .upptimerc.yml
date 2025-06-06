@@ -38,9 +38,9 @@ sites:
   - name: helm
     url: https://helm.kreato.dev
   - name: llm
-    url: https://llm.krea.to/v1/models
+    url: https://llm.krea.to/v1/
     expectedStatusCodes:
-      - 401
+      - 404
   - name: klinux
     url: https://linux.kreato.dev
   - name: media
