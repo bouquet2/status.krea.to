@@ -37,8 +37,10 @@ sites:
     url: https://krea.to
   - name: helm
     url: https://helm.kreato.dev
-  - name: ai
-    url: https://ai.krea.to
+  - name: llm
+    url: https://llm.krea.to/v1/models
+    expectedStatusCodes:
+      - 401
   - name: klinux
     url: https://linux.kreato.dev
   - name: media
