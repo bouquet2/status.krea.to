@@ -2,10 +2,6 @@ owner: kreatoo
 repo: status.krea.to
 
 sites:
-  - name: rose
-    url: https://rose.krea.to
-    expectedStatusCodes:
-      - 404
   - name: iris
     url: https://iris.krea.to
     expectedStatusCodes:
