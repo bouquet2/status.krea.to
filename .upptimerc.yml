@@ -33,8 +33,6 @@ sites:
     url: https://mirror.kreato.dev
   - name: main
     url: https://krea.to
-  - name: helm
-    url: https://helm.kreato.dev
   - name: llm
     url: https://llm.krea.to/v1/
     expectedStatusCodes:
