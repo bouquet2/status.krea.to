@@ -23,8 +23,6 @@ sites:
     url: https://bin.kreato.dev
   - name: koito
     url: https://fm.krea.to
-  - name: mastodon
-    url: https://m.kreato.dev
   - name: umami
     url: https://umami.krea.to/dashboard
   - name: n8n
