@@ -20,7 +20,7 @@ sites:
       - 400
       - 403
   - name: binrepo
-    url: https://bin.kreato.dev
+    url: https://bin.krea.to
   - name: koito
     url: https://fm.krea.to
   - name: umami
@@ -36,7 +36,7 @@ sites:
     expectedStatusCodes:
       - 404
   - name: klinux
-    url: https://linux.kreato.dev
+    url: https://linux.krea.to
   - name: media
     url: https://media.krea.to
   
