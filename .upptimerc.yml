@@ -2,10 +2,6 @@ owner: kreatoo
 repo: status.krea.to
 
 sites:
-  - name: iris
-    url: https://iris.krea.to
-    expectedStatusCodes:
-      - 404
   - name: MinIO
     url: https://s3.krea.to
     expectedStatusCodes:
