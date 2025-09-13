@@ -17,10 +17,6 @@ sites:
     url: https://mirror.kreato.dev
   - name: main
     url: https://krea.to
-  - name: llm
-    url: https://llm.krea.to/v1/
-    expectedStatusCodes:
-      - 404
   - name: klinux
     url: https://linux.krea.to  
 
