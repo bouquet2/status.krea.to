@@ -2,7 +2,7 @@ owner: kreatoo
 repo: status.krea.to
 
 sites:
-  - name: MinIO
+  - name: Garage S3
     url: https://s3.krea.to
     expectedStatusCodes:
       - 400
@@ -14,7 +14,7 @@ sites:
   - name: umami
     url: https://umami.krea.to/dashboard
   - name: mirror
-    url: https://mirror.kreato.dev
+    url: https://mirror.krea.to
   - name: main
     url: https://krea.to
   - name: klinux
