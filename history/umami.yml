@@ -1,7 +1,7 @@
 url: https://umami.krea.to/dashboard
-status: down
-code: 502
-responseTime: 682
-lastUpdated: 2025-11-24T15:21:41.663Z
+status: up
+code: 200
+responseTime: 590
+lastUpdated: 2025-11-24T17:12:11.249Z
 startTime: 2025-05-11T21:58:02.461Z
 generator: Upptime <https://github.com/upptime/upptime>
