@@ -4,10 +4,10 @@
     "url": "https://s3.krea.to",
     "icon": "https://icons.duckduckgo.com/ip3/s3.krea.to.ico",
     "slug": "garage-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 559,
@@ -16,6 +16,7 @@
     "timeMonth": 556,
     "timeYear": 559,
     "dailyMinutesDown": {
+      "2026-03-03": 1,
       "2025-11-18": 125
     }
   },
