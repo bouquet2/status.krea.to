@@ -2,6 +2,8 @@ owner: kreatoo
 repo: status.krea.to
 
 sites:
+  - name: src
+    url: https://src.krea.to
   - name: Garage S3
     url: https://s3.krea.to
     expectedStatusCodes:
