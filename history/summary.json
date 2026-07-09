@@ -1,5 +1,23 @@
 [
   {
+    "name": "src",
+    "url": "https://src.krea.to",
+    "icon": "https://icons.duckduckgo.com/ip3/src.krea.to.ico",
+    "slug": "src",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 483,
+    "timeDay": 483,
+    "timeWeek": 483,
+    "timeMonth": 483,
+    "timeYear": 483,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Garage S3",
     "url": "https://s3.krea.to",
     "icon": "https://icons.duckduckgo.com/ip3/s3.krea.to.ico",
