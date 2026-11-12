@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/src.krea.to.ico",
     "slug": "src",
     "status": "up",
-    "uptime": "97.69%",
+    "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.69%",
+    "uptimeYear": "97.71%",
     "time": 625,
     "timeDay": 0,
     "timeWeek": 0,
@@ -37,7 +37,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 572,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2025-11-18": 125,
       "2026-03-03": 51,
@@ -82,7 +82,6 @@
     "timeMonth": 0,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2025-11-12": 13,
       "2025-11-18": 133,
       "2025-11-24": 73
     }
