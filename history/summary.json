@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/src.krea.to.ico",
     "slug": "src",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.85%",
     "time": 625,
     "timeDay": 0,
     "timeWeek": 0,
@@ -58,7 +58,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 571,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2025-12-03": 23
     }
@@ -78,7 +78,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 571,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2025-11-24": 73
     }
@@ -98,7 +98,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 589,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2025-11-24": 111
     }
@@ -118,7 +118,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 445,
+    "timeYear": 446,
     "dailyMinutesDown": {}
   },
   {
